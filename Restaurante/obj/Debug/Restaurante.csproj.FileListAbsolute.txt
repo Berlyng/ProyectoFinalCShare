@@ -1,0 +1,16 @@
+C:\Users\Administrador\source\repos\Restaurante\bin\Debug\Restaurante.exe.config
+C:\Users\Administrador\source\repos\Restaurante\bin\Debug\Restaurante.exe
+C:\Users\Administrador\source\repos\Restaurante\bin\Debug\Restaurante.pdb
+C:\Users\Administrador\source\repos\Restaurante\bin\Debug\Guna.UI2.dll
+C:\Users\Administrador\source\repos\Restaurante\obj\Debug\Restaurante.csproj.AssemblyReference.cache
+C:\Users\Administrador\source\repos\Restaurante\obj\Debug\Restaurante.Properties.Resources.resources
+C:\Users\Administrador\source\repos\Restaurante\obj\Debug\Restaurante.csproj.GenerateResource.cache
+C:\Users\Administrador\source\repos\Restaurante\obj\Debug\Restaurante.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\source\repos\Restaurante\obj\Debug\Restaura.9D27851C.Up2Date
+C:\Users\Administrador\source\repos\Restaurante\obj\Debug\Restaurante.exe
+C:\Users\Administrador\source\repos\Restaurante\obj\Debug\Restaurante.pdb
+C:\Users\Administrador\source\repos\Restaurante\obj\Debug\Restaurante.Usuario.resources
+C:\Users\Administrador\source\repos\Restaurante\obj\Debug\Restaurante.Presentacion.Items.resources
+C:\Users\Administrador\source\repos\Restaurante\obj\Debug\Restaurante.Presentacion.Categoria.resources
+C:\Users\Administrador\source\repos\Restaurante\obj\Debug\Restaurante.Presentacion.Pago.resources
+C:\Users\Administrador\source\repos\Restaurante\obj\Debug\Restaurante.Presentacion.Login.resources
